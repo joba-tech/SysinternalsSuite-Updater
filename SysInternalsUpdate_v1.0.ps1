@@ -1,5 +1,5 @@
 ﻿##############################Function##############################
-#             This section contains the used functions  /johannes 2           #
+#             This section contains the used functions             #
 ####################################################################
 
 #region functions
